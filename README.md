@@ -16,3 +16,7 @@ This calculator is similar to Windows 10 Calculator
 ## Languages used
 
 html and css
+
+## view online 
+
+<a href="https://amirrajabzade.ir/calculator.html">calculator</a>
