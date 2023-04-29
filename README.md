@@ -19,4 +19,4 @@ html and css
 
 ## view online 
 
-<a href="https://amirrajabzade.ir/calculator.html">calculator</a>
+<a href="https://admiral-r.github.io/Calculator/">calculator</a>
